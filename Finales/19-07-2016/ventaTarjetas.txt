@@ -1,0 +1,8 @@
+1,Enero,21000
+8,Febrero,32
+3,Enero,140
+8,Junio,18
+6,Marzo,1900
+7,Noviembre,190
+8,Diciembre,200
+

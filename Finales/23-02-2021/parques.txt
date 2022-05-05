@@ -1,0 +1,6 @@
+1,Rosario, 8
+6,San Martin, 4
+8,Lavalle, 10
+3,Esperanza, 3
+7,General Pico, 9
+9,P.Madryn, 4

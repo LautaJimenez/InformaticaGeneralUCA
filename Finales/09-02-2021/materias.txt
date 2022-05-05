@@ -1,0 +1,3 @@
+132,Informática Gral
+127,Álgebra y Geometría
+137,Física I

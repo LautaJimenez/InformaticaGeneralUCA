@@ -1,0 +1,2 @@
+    print(Clave)
+        print(Indice)
